@@ -1,0 +1,18 @@
+﻿  Source.cpp
+c:\users\la patate démoniaque\documents\ptrans\code\distancedtc\distancedtc\source.cpp(147): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  RankPerImg.cpp
+c:\users\la patate démoniaque\documents\ptrans\code\distancedtc\distancedtc\rankperimg.cpp(159): warning C4018: '<': signed/unsigned mismatch
+c:\users\la patate démoniaque\documents\ptrans\code\distancedtc\distancedtc\rankperimg.cpp(162): warning C4018: '<': signed/unsigned mismatch
+c:\users\la patate démoniaque\documents\ptrans\code\distancedtc\distancedtc\rankperimg.cpp(140): warning C4101: 'disHTD': unreferenced local variable
+c:\users\la patate démoniaque\documents\ptrans\code\distancedtc\distancedtc\rankperimg.cpp(139): warning C4101: 'disCLD': unreferenced local variable
+c:\users\la patate démoniaque\documents\ptrans\code\distancedtc\distancedtc\rankperimg.cpp(189): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  Compiling...
+  SubRankCmp.cpp
+c:\users\la patate démoniaque\documents\ptrans\code\distancedtc\distancedtc\subrankcmp.cpp(102): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\la patate démoniaque\documents\ptrans\code\distancedtc\distancedtc\subrankcmp.cpp(115): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\la patate démoniaque\documents\ptrans\code\distancedtc\distancedtc\subrankcmp.cpp(155): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\la patate démoniaque\documents\ptrans\code\distancedtc\distancedtc\subrankcmp.cpp(171): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+  DistanceDTC.vcxproj -> C:\Users\La Patate Démoniaque\Documents\Ptrans\Code\DistanceDTC\Debug\DistanceDTC.exe
+  DistanceDTC.vcxproj -> C:\Users\La Patate Démoniaque\Documents\Ptrans\Code\DistanceDTC\Debug\DistanceDTC.pdb (Full PDB)
