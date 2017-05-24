@@ -1,7 +1,8 @@
 # Perceptual-Hash
 ## The search for similar wallpaper
 This is a Transverse project of students of Polytech Nantes.
-The company who gives the suject : Quai des apps (https://www.quai-des-apps.com/realisation)
+The company who gives the suject : 
+Quai des apps (https://www.quai-des-apps.com/realisation)
 
 The goal is to search the similar wallpapers when given a motif that we like. We would like to simulate the human perception using the Hash fonction. So we transform the image into descriptor, and for the moment, we have HTD(Homogeneous Texture Descriptor) and CLD(Color Structure Descriptor). We also combine these two descriptor to find the best ratio.
 
